@@ -1,4 +1,4 @@
-Enigmalight 
+Enigmalight Customized installation package for VU+ 4K with VTI IMAGE. 
 An Ambilight clone for broadcom based linux receivers.
 
 
