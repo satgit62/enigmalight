@@ -41,6 +41,21 @@ If you save the settings in the configuration editor by clicking 'Green/Create c
 ![EnigmaLight](https://github.com/user-attachments/assets/7b8c9d6c-990f-487d-a840-a33e36813009)
 
 
+# Note on the ARM architecture:
+
+On the 'Main Settings' page, you can choose between two different binaries for the 4K boxes (ARM).
+
+* Type of EnigmaLight Binary: original_arm_vti
+
+![Enigmalight binary_original_arm_vti](https://github.com/user-attachments/assets/4eaed096-b9b8-451a-a197-35e539cbcff6)
+
+* Type of EnigmaLight Binary: experimental_arm_multi
+
+![Enigmalight binary_experimental](https://github.com/user-attachments/assets/aa64a11f-fd3c-4b35-8489-a28f086ef891)
+
+Personally, I find 'experimental_arm_multi' to be very good, as the latency is low.
+
+
 # Note
 -For some devices like Wled, Hyperk, Atmolight, Karatelight, Adalight you need this kernel modules:
 > **ch341**, **cp210x**, **cdc-acm**, **ftdi-sio** and **uvcvideo** for an external video capture device (HDMI to USB).
