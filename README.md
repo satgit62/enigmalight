@@ -1,4 +1,5 @@
-# EnigmaLight Customized installation package for VU+ 4K with VTI IMAGE. 
+# EnigmaLight Customized installation package for VU+ 4K with VTI IMAGE.  <img width="173" height="45" alt="enigmalight_logo" src="https://github.com/user-attachments/assets/cdc571d3-7d8e-452a-a20d-f0a52c2abdad" />
+
 
 An Ambilight clone for broadcom based linux receivers.
 
