@@ -36,7 +36,7 @@ If everything is correct, you should see output similar to this in the terminal/
 
 ![EnigmaLight config editor_wled](https://github.com/user-attachments/assets/a757e1a6-77a9-4e99-a850-50075c3f6115)
 
-If you save the settings in the configuration editor by clicking 'Green/Create config file', the LED controller has been detected, and dynamic lighting control has been started via the green button in the settings, it should look like this:
+If you save the settings in the configuration editor by clicking 'Green/Create configfile', the LED controller has been detected, and dynamic lighting control has been started via the green button in the settings, it should look like this:
 
 ![EnigmaLight](https://github.com/user-attachments/assets/7b8c9d6c-990f-487d-a840-a33e36813009)
 
