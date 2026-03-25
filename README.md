@@ -31,7 +31,7 @@ If everything is correct, you should see output similar to this in the terminal/
 
 # Note
 -For some devices like Wled, Hyperk, Atmolight, Karatelight, Adalight you need this kernel modules:
-> **ch341**, **cp210x**, **cdc-acm**, **ftdi-sio**
+> **ch341**, **cp210x**, **cdc-acm**, **ftdi-sio** and **uvcvideo** for an external video capture device (HDMI to USB).
 
 You can access the kernel modules via the Plugin Browser > Manage Extensions > Install/Remove Software Packages > Kernel Modules. 
 
