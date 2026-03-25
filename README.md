@@ -34,6 +34,7 @@ If everything is correct, you should see output similar to this in the terminal/
 > **ch341**, **cp210x**, **cdc-acm**, **ftdi-sio**
 
 You can access the kernel modules via the Plugin Browser > Manage Extensions > Install/Remove Software Packages > Kernel Modules. 
+
 Reboot your receiver and if all is succesfull you can make a configfile and run it.
 
 Enjoy!
