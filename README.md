@@ -67,3 +67,6 @@ You can access the kernel modules via the Plugin Browser > Manage Extensions > I
 Reboot your receiver and if all is succesfull you can make a configfile and run it.
 
 Enjoy!
+
+# Credits
+* (@pclin), (@stefanru) & (@schwatter)
