@@ -30,6 +30,10 @@ If everything is correct, you should see output similar to this in the terminal/
 
 <img width="1095" height="880" alt="EnigmaLight Install" src="https://github.com/user-attachments/assets/4d9ee581-85ed-49fc-b94a-d9803e587aa6" />
 
+* Information about Enigmalight / 4K-Box
+
+![Informationen zu Enigmalight-Box](https://github.com/user-attachments/assets/ea6802a0-3e56-48a5-a384-23516d660a29)
+
 * Konfigurationsbeispiel: NodeMCU UDP für den Hyperk-LED-Controller
 
 ![EnigmaLight config editor_udpraw](https://github.com/user-attachments/assets/933394e8-8cfc-460b-b537-a3a476799f0d)
