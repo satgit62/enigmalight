@@ -69,4 +69,4 @@ Reboot your receiver and if all is succesfull you can make a configfile and run 
 Enjoy!
 
 # Credits
-* (@pclin), (@stefanru) & (@schwatter)
+* [@pclin](https://github.com/pclin-dream), @stefanru & [@schwatter](https://github.com/schwatter)
