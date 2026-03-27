@@ -30,6 +30,14 @@ If everything is correct, you should see output similar to this in the terminal/
 
 <img width="1095" height="880" alt="EnigmaLight Install" src="https://github.com/user-attachments/assets/4d9ee581-85ed-49fc-b94a-d9803e587aa6" />
 
+# Note:
+EnigmaLight requires 'python-cheetah'. If this is missing from your image, please install it via the terminal:
+
+```
+opkg update
+opkg install python-cheetah
+```
+
 
 * Information about Enigmalight / 4K-Box
 
