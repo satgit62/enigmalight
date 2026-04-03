@@ -44,7 +44,7 @@ opkg install python-cheetah
 ![Informationen zu Enigmalight-Box](https://github.com/user-attachments/assets/189d7124-d529-4eda-a6da-125a9811820e)
 
 
-* nformation about Enigmalight / mips-Box
+* information about Enigmalight / mips-Box
 
 ![Informationen zu Enigmalight-Box mips](https://github.com/user-attachments/assets/d3f02f81-28da-47ee-bb36-43752b599e0e)
 
